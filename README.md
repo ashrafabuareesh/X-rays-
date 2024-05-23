@@ -23,8 +23,7 @@
            2       0.89      0.88      0.89       222
 
     accuracy                           0.89       694
-   macro avg       0.89      0.89      0.89       694
-weighted avg       0.89      0.89      0.89       694
+
 
 
 ## VGG-16 Model: 
@@ -37,8 +36,7 @@ weighted avg       0.89      0.89      0.89       694
            2       0.99      0.88      0.93       226
 
     accuracy                           0.94       694
-   macro avg       0.95      0.94      0.94       694
-weighted avg       0.95      0.94      0.94       694
+
 ## Summary of Comparison
 ### Precision:
 * Initial Model:
